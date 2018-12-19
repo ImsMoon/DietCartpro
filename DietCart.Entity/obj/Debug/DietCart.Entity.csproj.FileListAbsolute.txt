@@ -1,0 +1,19 @@
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll.config
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.pdb
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.csprojResolveAssemblyReference.cache
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll.config
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.csprojResolveAssemblyReference.cache
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll.config
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\bin\Debug\DietCart.Entity.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.csprojAssemblyReference.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.csproj.CoreCompileInputs.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Entity\obj\Debug\DietCart.Entity.pdb

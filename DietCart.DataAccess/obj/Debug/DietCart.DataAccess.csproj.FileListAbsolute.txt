@@ -1,0 +1,30 @@
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.csprojResolveAssemblyReference.cache
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.pdb
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.pdb
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.pdb
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.csprojResolveAssemblyReference.cache
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.DataAccess.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Entity.dll.config
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\bin\Debug\DietCart.Framwork.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.csprojAssemblyReference.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.csproj.CoreCompileInputs.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.csproj.CopyComplete
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.DataAccess\obj\Debug\DietCart.DataAccess.pdb

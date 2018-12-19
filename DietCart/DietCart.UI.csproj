@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BA0D758-EDD3-42D8-8B4E-D13AE0C4F697}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DietCart</RootNamespace>
+    <AssemblyName>DietCart</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bmiCalculator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bmiCalculator.Designer.cs">
+      <DependentUpon>bmiCalculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dietInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="dietInfo.Designer.cs">
+      <DependentUpon>dietInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="logup.Designer.cs">
+      <DependentUpon>logup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="normalDataGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="normalDataGrid.Designer.cs">
+      <DependentUpon>normalDataGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="normalWeightFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="normalWeightFrom.Designer.cs">
+      <DependentUpon>normalWeightFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="overDataGridUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="overDataGridUserControl.Designer.cs">
+      <DependentUpon>overDataGridUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="underDataGridUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="underDataGridUserControl.Designer.cs">
+      <DependentUpon>underDataGridUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="underOverNormal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="underOverNormal.Designer.cs">
+      <DependentUpon>underOverNormal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="overWeightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="overWeightForm.Designer.cs">
+      <DependentUpon>overWeightForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="underWeightForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="underWeightForm.Designer.cs">
+      <DependentUpon>underWeightForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bmiCalculator.resx">
+      <DependentUpon>bmiCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dietInfo.resx">
+      <DependentUpon>dietInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logup.resx">
+      <DependentUpon>logup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="normalDataGrid.resx">
+      <DependentUpon>normalDataGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="normalWeightFrom.resx">
+      <DependentUpon>normalWeightFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="overDataGridUserControl.resx">
+      <DependentUpon>overDataGridUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="underDataGridUserControl.resx">
+      <DependentUpon>underDataGridUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="underOverNormal.resx">
+      <DependentUpon>underOverNormal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="overWeightForm.resx">
+      <DependentUpon>overWeightForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="underWeightForm.resx">
+      <DependentUpon>underWeightForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weight-loss-girl.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wimp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DietCart.DataAccess\DietCart.DataAccess.csproj">
+      <Project>{b77158b3-3805-499b-8fad-27d2d078f47a}</Project>
+      <Name>DietCart.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DietCart.Entity\DietCart.Entity.csproj">
+      <Project>{05e415c2-a722-4053-9810-8cddae7c8c90}</Project>
+      <Name>DietCart.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DietCart.Framwork\DietCart.Framwork.csproj">
+      <Project>{8e40fe98-3f76-487b-9d46-dfa07b691abc}</Project>
+      <Name>DietCart.Framwork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

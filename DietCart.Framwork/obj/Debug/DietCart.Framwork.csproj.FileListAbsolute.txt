@@ -1,0 +1,16 @@
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.pdb
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.csprojResolveAssemblyReference.cache
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.dll
+F:\DietCart\DietCart v3.2\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.pdb
+D:\AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.csprojResolveAssemblyReference.cache
+D:\AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.dll
+D:\AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\bin\Debug\DietCart.Framwork.pdb
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.csprojAssemblyReference.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.csproj.CoreCompileInputs.cache
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.dll
+F:\Diet_Cart +AR\DietCartpro\DietCartpro\DietCart.Framwork\obj\Debug\DietCart.Framwork.pdb
